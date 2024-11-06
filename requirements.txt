@@ -1,0 +1,6 @@
+pandas==1.3.5        # Data manipulation and analysis
+numpy==1.21.4        # Numerical computations
+annoy==1.17.0        # Approximate Nearest Neighbors for efficient similarity search
+matplotlib==3.4.3    # Plotting and visualization
+seaborn==0.11.2      # Statistical data visualization based on matplotlib
+joblib==1.1.0        # For efficient object serialization
